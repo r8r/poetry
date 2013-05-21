@@ -1,4 +1,4 @@
-junk*.txt
+#junk*.txt
 .DS_Store
 thumbs.db
 private/
